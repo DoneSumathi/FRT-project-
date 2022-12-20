@@ -1,5 +1,5 @@
 # suma
-# ✨ Telugu Health  ✨
+# ✨ Online Study  ✨
 
 This is a web based application developed for health related education tech based website in india
 
