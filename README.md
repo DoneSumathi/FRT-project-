@@ -8,7 +8,7 @@ This is a web based application developed for health related education tech base
 
 *Project Link* - https://gray-island-07263a910.2.azurestaticapps.net
 
-*Project demo video link* -
+*Project demo video link* -  https://youtu.be/UlIhwzLuvAM
 
 
 ## Features and Functionalities 😃
